@@ -1,0 +1,42 @@
+    1  which git
+    2  git config --global user.name "hharigoppula"
+    3  git config --global user.email hharigoppula@my.okcu.edu
+    4  script
+    5  mkdir gitLAb
+    6  ls
+    7  cd gitLab
+    8  pwd
+    9  ls
+   10  vim hello.c
+   11  ls
+   12  git init
+   13  ls -al
+   14  cd .git
+   15  ls
+   16  cd ..
+   17  ls
+   18  git add .
+   19  ls
+   20  git status
+   21  git commit
+   22  git status
+   23  vim hello.c
+   24  git status
+   25  git add .
+   26  git commit
+   27  git log
+   28  history|tail
+   29  history>myhistory
+   30  git push
+   31  git push harishharigoppula
+   32  git push
+   33  git log
+   34  git remote add hharigoppula hharigoppula@my.okcu.edu
+   35  git push hharigoppula
+   36  git push hharigoppula@my.okcu.edu
+   37  git push
+   38  git remote add hharigoppula@my.okcu.edu https://github.com/harishharigoppula/gitLab.git
+   39  git push hharigoppula@my.okcu.edu
+   40  git remote add origin https://github.com/harishharigoppula/gitLab.git
+   41  git push -u origin master
+   42  history>myhistory
